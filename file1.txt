@@ -1,0 +1,9 @@
+hi hello am working on git is it ok 
+pwd
+exit
+
+
+
+
+
+clear
